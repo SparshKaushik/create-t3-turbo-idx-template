@@ -1,0 +1,13 @@
+{
+    "name": "Create T3 Turbo UnOfficial Template",
+    "description": "The best way to start a full-stack, typesafe Next.js app",
+    "categories": [
+        "NextJS",
+        "t3",
+        "Full-Stack",
+        "t3-stack"
+    ],
+    "icon": "https://create.t3.gg/images/t3-dark.svg",
+    "website": "https://github.com/t3-oss/create-t3-turbo",
+    "publisher": "Sparsh Kaushik"
+}
